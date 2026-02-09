@@ -1,8 +1,8 @@
 class Calculator: 
     def add(self, a, b): 
         return a + b 
-    def subtract(self, a, b): 
-        return a - b 
+    def subtract(self, bil1, bil2): 
+        return bil1 - bil2
     def multiply(self, a, b): 
         return a * b 
     def divide(self, a, b): 
